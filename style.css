@@ -1,0 +1,9 @@
+#clock {
+  font-family: Arial, sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
